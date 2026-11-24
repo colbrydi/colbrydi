@@ -21,7 +21,7 @@ I work at Michigan State University at the intersection of computational science
 | --- | --- |
 | [MailMerge](https://github.com/colbrydi/mailmerge) - Simple Python/Pandas mail merge program.  | [Lithophane Builder](https://github.com/colbrydi/Lithophane) - Tool to generate STL files from images. |
 | [MarkdownReport](https://github.com/colbrydi/MarkdownReport) - Simple tool that works well inside Jupyter to generate reports in Markdown, PDF, and HTML. | [Pressure Tracker](https://colbrydi.github.io/pressure_tracker/) - Tool to track local pressure differences to help with monitoring migraines. |
-| [Overleaf CV Builder](https://github.com/colbrydi/academic-profile-compiler) - Tool I use in Overleaf to build my CV. It is based on a data-first model and should be easy to adapt by other users.  | |
+| [Overleaf CV Builder](https://github.com/colbrydi/academic-profile-compiler) - Tool I use in Overleaf to build my CV. It is based on a data-first model and should be easy to adapt by other users.  | [Scratch Game Gallary](https://github.com/colbrydi/Kenneth_Games/) - Simple, easy to adapt, game gallery for my kid's public scratch games. |
 | [QuickDID](https://github.com/colbrydi/quickDID) - Small and simple data de-identification tool. |
 
 
